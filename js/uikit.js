@@ -8,7 +8,7 @@
 	}
 
 	var uikit = createCommonjsModule(function (module, exports) {
-	/*! UIkit 3.2.3 | http://www.getuikit.com | (c) 2014 - 2019 YOOtheme | MIT License */
+
 
 	(function (global, factory) {
 	     module.exports = factory() ;
